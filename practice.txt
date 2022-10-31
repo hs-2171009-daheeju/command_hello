@@ -1,2 +1,3 @@
-this is a pactice.
-
+이것은 협정입니다.
+for command line git tutorial
+practice.txt file is edited
